@@ -2,9 +2,9 @@
 
 💼 My Journey
 
-- Market Analyst Intern, Outamation | Dallas, TX | Jun '24 - Jul '24
-- Product Marketing Analyst, Zoho Corp | Chennai, India | Nov '21 - Jun '23
-- Junior Analyst, Full Creative | Remote, India | Aug '21 - Oct '21
+- Market Analyst Intern, Outamation | Jun '24 - Jul '24
+- Product Marketing Analyst, Zoho Corp | Nov '21 - Jun '23
+- Junior Analyst, Full Creative | Aug '21 - Oct '21
 
 🛠️ Key Skills
 
