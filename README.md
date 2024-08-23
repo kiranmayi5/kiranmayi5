@@ -10,7 +10,7 @@ I'm Kiran Mayi Hari Babu, currently pursuing a Master’s in Business Analytics 
 💎 What Sets Me Apart: My ability to see the big picture while diving deep into the details, ensures that every data-driven decision is impactful.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiran-mayi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-mayi/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/kiranmayi1998/)
 [![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](kiranmayi1998@gmail.com)
 
