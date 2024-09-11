@@ -7,7 +7,7 @@ I'm Kiran Mayi Hari Babu, currently pursuing a Master’s in Business Analytics 
 
 💎 What Sets Me Apart: My ability to see the big picture while diving deep into the details, ensures that every data-driven decision is impactful.
 
-💬 Let’s Chat About: Strategies for applying data analytics to solve business challenges. Reach me at kiranmayi1998@gmail.com
+💬 Let’s Chat About: Strategies for applying data analytics to solve business challenges. Reach me at kiranmayiharibabu@gmail.com
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-mayi/)
