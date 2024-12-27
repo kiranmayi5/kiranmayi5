@@ -5,7 +5,7 @@ I'm Kiran Mayi Hari Babu, a data-driven professional with a passion for turning 
 
 💎 Skills: SQL, Python, Tableau, Power BI, R and advanced data visualization.
 
-💬 Let’s Chat About: Strategies for applying data analytics to solve business challenges. Reach me at kiranmayiharibabu@gmail.com
+💬 Let’s Connect: Reach me at kiranmayiharibabu@gmail.com to discuss data-driven solutions for business challenges.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-mayi/)
