@@ -1,22 +1,53 @@
-### 👋🏼 Hi there!
-I'm Kiran Mayi Hari Babu, a data-driven professional with a passion for turning raw data into actionable insights.
+# 👋 Hi there!  
 
-💡 Key Focus: Building dashboards, crafting analytics pipelines, and uncovering business intelligence.
+I’m **Kiran Mayi Hari Babu**, a data-driven professional passionate about transforming raw data into actionable insights.  
 
-💎 Skills: SQL, Python, Tableau, Power BI, R and advanced data visualization.
+---
 
-💬 Let’s Connect: Reach me at kiranmayiharibabu@gmail.com to discuss data-driven solutions for business challenges.
+### 💡 **Key Focus**  
+- Building dashboards  
+- Crafting analytics pipelines  
+- Uncovering business intelligence  
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-mayi/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=)](https://leetcode.com/u/kiranmayi1998/)
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=flat&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/kharibab)
+---
 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+### 💎 **Skills**  
+- **Programming**: SQL, Python, R  
+- **Visualization**: Tableau, Power BI  
+- **Specializations**: Advanced data visualization, data cleaning, statistical analysis  
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmayi5&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💬 **Let’s Connect**  
+Reach me at [kiranmayiharibabu@gmail.com](mailto:kiranmayiharibabu@gmail.com) to discuss how data can drive impactful solutions.
+
+---
+
+### 🌐 **Socials**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com) 
+[![DataCamp](https://img.shields.io/badge/-DataCamp-brightgreen?style=flat&logo=datacamp)](https://datacamp.com)
+
+---
+
+### 🛠️ **Tech Stack**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-41B883?style=flat&logo=openai&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmayi5&layout=compact&theme=radical)  
+
+---
+
+✨ **Explore my projects and let’s create something impactful together!** 🚀
