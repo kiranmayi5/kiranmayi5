@@ -1,11 +1,9 @@
 ### 👋🏼 Hi there!
-I'm Kiran Mayi Hari Babu, currently pursuing a Master’s in Business Analytics at the University of Rochester. I’m passionate about transforming complex data into strategic insights, with a background in marketing analytics and product management.
+I'm Kiran Mayi Hari Babu, a data-driven professional with a passion for turning raw data into actionable insights.
 
-🔭 What I’m Focused On: Building projects in data analytics, machine learning, and business intelligence.
+💡 Key Focus: Building dashboards, crafting analytics pipelines, and uncovering business intelligence.
 
-🌱 Always Learning: Deepening my expertise in machine learning and data engineering.
-
-💎 What Sets Me Apart: My ability to see the big picture while diving deep into the details, ensures that every data-driven decision is impactful.
+💎 Skills: SQL, Python, Tableau, Power BI, R and advanced data visualization.
 
 💬 Let’s Chat About: Strategies for applying data analytics to solve business challenges. Reach me at kiranmayiharibabu@gmail.com
 
