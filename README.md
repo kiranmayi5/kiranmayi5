@@ -4,17 +4,25 @@ I’m **Kiran Mayi Hari Babu**, a data-driven professional passionate about tran
 
 ---
 
-### 💡 **Key Focus**  
-- Building dashboards  
-- Crafting analytics pipelines  
-- Uncovering business intelligence  
+## 🎯 Key Focus
+- 📊 **Building interactive dashboards** to uncover trends and patterns
+- 🔍 **Data cleaning & transformation** for accurate insights
+- 📈 **Exploratory & predictive analysis** to drive data-backed decision-making
+- 🏢 **Business intelligence & reporting** for actionable strategies
 
 ---
 
-### 💎 **Skills**  
-- **Programming**: SQL, Python, R  
-- **Visualization**: Tableau, Power BI  
-- **Specializations**: Advanced data visualization, data cleaning, statistical analysis  
+## 💎 Skills
+### 🔹 **Programming**
+- SQL | Python | R
+
+### 📊 **Data Visualization**
+- Tableau | Power BI | Matplotlib | Seaborn
+
+### 🛠 **Tools & Technologies**
+- **Databases**: MySQL, PostgreSQL
+- **Cloud & Big Data**: AWS (in progress), Google BigQuery
+
 
 ---
 
